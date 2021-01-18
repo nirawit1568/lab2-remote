@@ -5,8 +5,8 @@
 **StudentID** : 61070343
 **Name** : Nirawit Naktham
 
-> King mongkut's institute of technology ladkrabang
+> [King mongkut's institute of technology ladkrabang](https://www.kmitl.ac.th/)
 
 ```
-print("Hello world")
+print("Hello Ladkrabang")
 ```
